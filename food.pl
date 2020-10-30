@@ -24,5 +24,3 @@ sweet(kao_pad).
 hot(tom_yam_kung).
 hot(kuai_tiew).
 hot(pad_kra_pao).
-
-
